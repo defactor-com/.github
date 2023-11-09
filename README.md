@@ -1,6 +1,6 @@
 <span align="center">
 
-<a href="https://www.defactor.com"><img width="400" alt="Defactor Logo" src="https://raw.githubusercontent.com/defactor-com/.github/main/workflows/images/defactor-logo.svg"></img></a>
+<a href="https://www.defactor.com"><img width="400" alt="Defactor Logo" src="https://raw.githubusercontent.com/defactor-com/.github/main/workflows/images/defactor-logo-grey.png"></img></a>
 
 </span>
 
