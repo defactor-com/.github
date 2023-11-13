@@ -1,6 +1,6 @@
 <span align="center">
 
-<a href="https://www.defactor.com"><img width="360" alt="Defactor Logo" src="https://raw.githubusercontent.com/defactor-com/.github/main/workflows/images/defactor-logo.svg"></img></a>
+<a href="https://www.defactor.com"><img width="360" alt="Defactor Logo" src="https://raw.githubusercontent.com/defactor-com/.github/main/workflows/images/defactor-logo-grey.png"></img></a>
 
 ## Welcome to Defactor's GitHub Organization!
 Defactor is at the forefront of bridging the gap between Real-World Assets (RWA) and Decentralized Finance (DeFi). We are pioneering the tokenization of RWAs to unlock liquidity and foster innovation within the financial sector. Our platform simplifies the path for businesses to integrate DeFi solutions, backed by the tangible value of real-world assets.
